@@ -12,3 +12,4 @@ Organizador Personal
 ## Autor
 - Diego Emilio Alférez Vallejo
 - Orlando Villalobos Gutiérrez
+## Estado 
